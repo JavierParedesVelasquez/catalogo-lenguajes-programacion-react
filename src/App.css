@@ -1,0 +1,15 @@
+.App {
+  width: 70%;
+  height: 100%;
+  margin-left: 15%;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+.user-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
